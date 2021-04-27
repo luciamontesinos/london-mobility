@@ -1,11 +1,10 @@
 ---
-title: "London"
-date: 2021-04
-author: ["Lucía", "Max", "Tamás"]
-description: "This is the main page of our Social Data 2021 final project"
+title: "Covid-19"
+date: 2021-04-27
+author: ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
+description: "This is how Covid-19 has affected Greater London"
 draft: false
 ---
 
 
-### THIS IS  A MAP OF LONDON
-![London]({{< baseurl >}}/london.png)
+### Covid impact in different areas

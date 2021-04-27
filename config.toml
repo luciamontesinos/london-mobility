@@ -3,4 +3,31 @@ languageCode = "en-us"
 title = "London Mobility"
 publishDir = "docs"
 theme = "PaperMod"
+[Params] 
+    author = ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
+    description = "Final project for 02806 Social data analysis and visualization Spring 21"
+    
 
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/london"
+    name = "London"
+    weight = 2
+
+[[menu.main]]
+    url = "/covid"
+    name = "Covid-19"
+    weight = 3
+[[menu.main]]
+    url = "/mobility"
+    name = "Mobility"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://github.com/luciamontesinos/london-mobility"
+    name = "github"
+    weight = 1
