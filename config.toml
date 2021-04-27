@@ -12,7 +12,7 @@ theme = "PaperMod"
         Content = "Can be Info, links, about..."
 
 [[menu.main]]
-    url = "/"
+    url = "/home"
     name = "Home"
     weight = 1
 
