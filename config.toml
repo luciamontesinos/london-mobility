@@ -6,8 +6,10 @@ theme = "PaperMod"
 [Params] 
     author = ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
     description = "Final project for 02806 Social data analysis and visualization Spring 21"
-    favicon = "{{< baseurl >}}favicon.ico"
-    
+    [homeInfoParams]
+
+        Title = "Hi there wave"
+        Content = "Can be Info, links, about..."
 
 [[menu.main]]
     url = "/"
