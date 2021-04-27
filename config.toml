@@ -2,4 +2,5 @@ baseURL = "https://luciamontesinos.github.io/london-mobility/"
 languageCode = "en-us"
 title = "London Mobility"
 publishDir = "docs"
+theme = "PaperMod"
 
