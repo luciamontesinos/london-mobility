@@ -6,4 +6,4 @@ draft: false
 
 
 # THIS IS  A MAP OF LONDON
-![London](/images/london.png)
+![London]({{< baseurl >}}/london.png)
