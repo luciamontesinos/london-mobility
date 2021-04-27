@@ -7,11 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://luciamontesinos.github.io/london-mobility/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>London</title>
+      <title>Greater London</title>
       <link>https://luciamontesinos.github.io/london-mobility/london/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luciamontesinos.github.io/london-mobility/london/</guid>
+      <description>Some Greater London insights</description>
+    </item>
+    
+    <item>
+      <title>Mobility</title>
+      <link>https://luciamontesinos.github.io/london-mobility/mobility/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciamontesinos.github.io/london-mobility/mobility/</guid>
+      <description>There has been changes in the mobility paterns in Greater London</description>
+    </item>
+    
+    <item>
+      <title>London</title>
+      <link>https://luciamontesinos.github.io/london-mobility/covid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luciamontesinos.github.io/london-mobility/covid/</guid>
       <description>This is the main page of our Social Data 2021 final project</description>
     </item>
     
