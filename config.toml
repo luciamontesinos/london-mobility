@@ -6,10 +6,21 @@ theme = "PaperMod"
 [Params] 
     author = ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
     description = "Final project for 02806 Social data analysis and visualization Spring 21"
-    [homeInfoParams]
+    [params.homeInfoParams]
+        title = "Hi there wave"
+        content = "Can be Info, links, about..."
 
-        Title = "Hi there wave"
-        Content = "Can be Info, links, about..."
+    [params.socialIcons]
+        name = "github"
+            url = "github"
+
+
+[[fruit]]
+name = "apple"
+
+[fruit.physical]
+color = "red"
+shape = "round"            
 
 [[menu.main]]
     url = "/home"
@@ -30,7 +41,3 @@ theme = "PaperMod"
     name = "Mobility"
     weight = 3
 
-[[menu.icon]]
-    url = "https://github.com/luciamontesinos/london-mobility"
-    name = "github"
-    weight = 1
