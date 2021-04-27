@@ -7,7 +7,7 @@ theme = "PaperMod"
 author = ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
 description = "Final project for 02806 Social data analysis and visualization Spring 21"
 
-ShowShareButtons = true
+
 [params.homeInfoParams]
 Title = "Hi there wave"
 Content = "Can be Info, links, about..."
@@ -15,8 +15,15 @@ Content = "Can be Info, links, about..."
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/luciamontesinos/london-mobility"
-[assets]
+
+[params.assets]
     favicon= "/favicon.ico"
+
+
+[[menu.main]]
+    url = "/home"
+    name = "Home"
+    weight = 1
 
 [[menu.main]]
     url = "/london"
