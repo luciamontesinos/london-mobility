@@ -5,15 +5,14 @@
     <link>https://luciamontesinos.github.io/london-mobility/</link>
     <description>Recent content on London Mobility</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Apr 2021 11:11:35 +0200</lastBuildDate><atom:link href="https://luciamontesinos.github.io/london-mobility/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://luciamontesinos.github.io/london-mobility/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://luciamontesinos.github.io/london-mobility/posts/my-first-post/</link>
-      <pubDate>Tue, 27 Apr 2021 11:11:35 +0200</pubDate>
+      <link>https://luciamontesinos.github.io/london-mobility/london/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
       
-      <guid>https://luciamontesinos.github.io/london-mobility/posts/my-first-post/</guid>
-      <description>HELLO WORLD </description>
+      <guid>https://luciamontesinos.github.io/london-mobility/london/</guid>
+      <description>THIS IS A MAP OF LONDON </description>
     </item>
     
   </channel>
