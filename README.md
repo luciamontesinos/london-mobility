@@ -3,11 +3,14 @@ london-mobility
 
 
 
-# [Website](https://luciamontesinos.github.io/london-mobility/london/)
+# [WEBSITE](https://luciamontesinos.github.io/london-mobility/london/)
 
+## USEFUL RESOURCES
 [Install hugo](https://gohugo.io/getting-started/quick-start/)
-Make changes locally
-Run `hugo`
-Push to master
+
+## MAKE CHANGES
+1. Make changes locally
+2. Run `hugo`
+3. Push to master
 
 
