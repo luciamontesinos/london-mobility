@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## How to navigate the notebook
-Welcome to the main narrative of our findings. Throughout this page, you will find some prominent sections that will lead you to a deeper analysis. Although they don't need to be read, they help contextualize the overall narrative. These sections can also be found through the upper right menu. **todo: add link to github here??**
+Welcome to the main narrative of our findings. Throughout this page, you will find some highlited sections that will lead you to a deeper analysis. Although they don't need to be read, they help contextualize the overall narrative. These sections can also be found through the upper right menu. **todo: add link to github here??**
 
 
 ### The impact of COVID-19 in mobility
