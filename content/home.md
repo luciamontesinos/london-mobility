@@ -1,11 +1,11 @@
 ---
 title: "Impact of Covid-19 into London Mobility"
-description: "Final project for 02806 -Social data analysis and visualization Spring 21"
+description: "Final project for 02806 - Social Data Analysis and Visualization Spring 21"
 draft: false
 ---
 
 ## How to navigate the notebook
-Welcome to the main narrative of our findings. Throughout this page, you will find some highlited sections that will lead you to a deeper analysis. Although they don't need to be read, they help contextualize the overall narrative. These sections can also be found through the upper right menu. **todo: add link to github here??**
+Welcome to the main narrative of our findings. Throughout this page, you will find some highlited sections that will lead you to a deeper analysis. Although they don't need to be read, they help contextualize the overall narrative. These sections can also be found through the upper right menu. [Here](https://github.com/luciamontesinos/london-mobility) You can find the source code and the datasets used for the plots.
 
 
 ### The impact of COVID-19 in mobility
