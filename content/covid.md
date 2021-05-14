@@ -4,7 +4,7 @@ description: "This is how Covid-19 has affected Greater London"
 draft: false
 ---
 
-![COVID cases](/images/totalcases.png)
+![COVIDcases](/images/totalcases.png)
 ### Covid impact in different boroughs
 
 The first and second waves of the COVID pandemic are of interest to this investigation, as they were also accompanied by radical non-medical interventions in people's lives. Mobility was limited drastically and it is generally agreed that this was the most effective way of slowing down the spread of the virus.
