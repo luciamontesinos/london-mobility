@@ -3,12 +3,12 @@ title: "Mobility"
 description: "There has been changes in the mobility paterns in Greater London"
 draft: false
 ---
-### How is mobillity in London
+### How the mobillity infrasturcture in London
 
-There has been changes in the mobility paterns in Greater London
+You might know already the population of the London boroughs, **todo something about population* but how is the mobility insfrastructure for each of them? 
 
 ### Cycle
-London counts with more than ???? km of cycle paths
+London counts with more than ???? km of cycle paths. This is a map of cyclable paths: 
 
 {{<include-html "/data/Cycle_Routes.html">}}
 **todo improve plot of cycle routes**
