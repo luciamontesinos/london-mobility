@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## How to navigate the notebook
-Welcome to the main narrative of our findings. Throughout this page, you will find some highlited sections that will lead you to a deeper analysis. Although they don't need to be read, they help contextualize the overall narrative. These sections can also be found through the upper right menu.  You can find the **[source code](https://github.com/luciamontesinos/london-mobility/blob/master/London.ipynb)** and the **[datasets](https://github.com/luciamontesinos/london-mobility/tree/master/datasets)** used for the plots.
+Welcome to the main narrative of our findings. Throughout this page, you will find some highlighted sections that will lead you to a deeper analysis. Although they don't need to be read, they help contextualize the overall narrative. These sections can also be found through the upper right menu.  You can find the **[source code](https://github.com/luciamontesinos/london-mobility/blob/master/London.ipynb)** and the **[datasets](https://github.com/luciamontesinos/london-mobility/tree/master/datasets)** used for the plots.
 
 
 ### The impact of COVID-19 in mobility
