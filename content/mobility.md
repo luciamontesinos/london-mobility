@@ -3,19 +3,18 @@ title: "Mobility"
 description: "There has been changes in the mobility paterns in Greater London"
 draft: false
 ---
-### How the mobillity infrasturcture in London
+## The mobillity patterns and infrasturcture in London
 
-You might know already the population of the London boroughs, **todo something about population* but how is the mobility insfrastructure for each of them? How has the usage changed??
+Covid-19 has affected the frequency and conveyance Londoners choose. If we take a look into the montly journeys, we can see how as the restrictions start, the number of journeys dramaticly decreases. This is also supported when taking a look into the visits to **[transit stations](https://luciamontesinos.github.io/london-mobility/mobility/#areas-of-negative-change)** 
 
-{{<include-html "/data/timeline_restrictions.html">}}
+{{<include-html "/data/monthly_journeys.html">}}
 
-
+However, not all boroughs count on the same transport infrastructure. Let's analyze them one by one:
 
 ### Cycle
 London counts with The London Cycle Network Plus (LCN+) a  network of cycle routes of about 900 kilometres. Below is the map of the cyclable paths:
 
 {{<include-html "/data/Cycle_Routes.html">}}
-**todo improve plot of cycle routes**
 
 
 Beside the private owned bikes, London counts with a public cycle scheme with more than 11,500 bikes and 750 docking stations. However the distribution of this docking station is quite uneven.
@@ -23,24 +22,24 @@ Beside the private owned bikes, London counts with a public cycle scheme with mo
 {{<include-html "/data/London_docking_stations.html">}}
 
 
-As seen above, the most centric boroughs have the majority of the docking stations. **todo link to density plot, talk about the density population in those boroughs**
+As seen above, the most centric boroughs have the majority of the docking stations. 
 
 
-If we take a look into the usage of this public bikes, overall there is an increase on the cycle hires on summer and spring, something to be expected if we keep in mind the weather. However, since covid started, the increase is way more noticeable specially whenever the mobility restrictions are lifted. **todo link to mobility restrictions**
+If we take a look into the usage of this public bikes, overall there is an increase on the cycle hires on summer and spring, something to be expected if we keep in mind the weather. However, since covid started, the increase is way more noticeable specially whenever the **[mobility restrictions](https://luciamontesinos.github.io/london-mobility/home/#the-mobility)** are lifted. 
 
 {{<include-html "/data/CycleHires.html">}}
 
 
 ### Public transport
-As we can see, not all boroughs have the same number of bus stops. 
+If we dig into th epublic transport system, we can see how not all boroughs have the same number of bus stops. 
 {{<include-html "/data/London_bus_stops.html">}}
-**todo improve plot of bus stops**
 
 
 
-As we can see, not all boroughs have the same number of tfl stops (includes Tube, DLR, Overground, Tramlink, Emirates Air Line and Crossrail stations)
+
+Analogously for the rest of the TFL system, not all boroughs have the same number of Tube, DLR, Overground, Tramlink, Emirates Air Line and Crossrail stations.
 {{<include-html "/data/London_tfl_stations.html">}}
-**todo improve plot of bus stops**
+
 
 
 ## Differences between restriction obidience during the first and the second lockdown

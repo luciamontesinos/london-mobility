@@ -17,6 +17,8 @@ Although the virus was first identified in December 2019 in Wuhan, China, the fi
 
 {{<include-html "/data/timeline_restrictions.html">}}
 
+
+### The mobility
 Most of these restrictions had a direct effect on the mobility of the Londoners. To analyze this, we used the Google Mobility Report of the Greater London Area. This report uses Google Location Services to estimate the places that the smartphone users visited and compares them to a baseline take in January 2020.
 
 
