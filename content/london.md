@@ -5,11 +5,11 @@ draft: false
 ---
 ### Maps of Greater london
 #### Population
+The population of the Greater London area is around 9 million.
 {{<include-html "/data/population_dark.html">}}
 
 #### Politics
-Greater London area, which consists of 32 boroughs will be our focus of anylisis, below is a map containing the leading parties in each borough:
-
+The 32 boroughs, each with their own leading political party, currently the Labour Party leads most boroughs.
 - Conservative Party (Blue)
 - Labour Party (Red)
 - Liberal Democrats (Green)
