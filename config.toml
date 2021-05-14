@@ -41,4 +41,9 @@ url = "https://github.com/luciamontesinos/london-mobility"
     name = "Mobility"
     weight = 4
 
+[[menu.main]]
+    url = "/mobility1"
+    name = "Mobility1"
+    weight = 5
+
 
