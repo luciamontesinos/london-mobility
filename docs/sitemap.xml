@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://luciamontesinos.github.io/london-mobility/test/</loc>
-    <lastmod>2021-05-14T20:49:41+02:00</lastmod>
-  </url><url>
     <loc>https://luciamontesinos.github.io/london-mobility/categories/</loc>
   </url><url>
     <loc>https://luciamontesinos.github.io/london-mobility/covid/</loc>
@@ -16,8 +13,6 @@
     <loc>https://luciamontesinos.github.io/london-mobility/</loc>
   </url><url>
     <loc>https://luciamontesinos.github.io/london-mobility/mobility/</loc>
-  </url><url>
-    <loc>https://luciamontesinos.github.io/london-mobility/mobility1/</loc>
   </url><url>
     <loc>https://luciamontesinos.github.io/london-mobility/tags/</loc>
   </url>
