@@ -5,7 +5,11 @@ draft: false
 ---
 ### How the mobillity infrasturcture in London
 
-You might know already the population of the London boroughs, **todo something about population* but how is the mobility insfrastructure for each of them? 
+You might know already the population of the London boroughs, **todo something about population* but how is the mobility insfrastructure for each of them? How has the usage changed??
+
+{{<include-html "/data/timeline_restrictions.html">}}
+
+
 
 ### Cycle
 London counts with The London Cycle Network Plus (LCN+) a  network of cycle routes of about 900 kilometres. Below is the map of the cyclable paths:
