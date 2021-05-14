@@ -45,6 +45,8 @@ When people were initially forced to stay at home and reduce the amount of time 
 
 We have picked the start date of the first lockdown, to be 24/03/2020, when the majority of the restrictions were put into place, similarly, we have decided on 05/11/2020 as the start of the second lockdown. We have taken the mobility data available for the week after the introduction of a restrictions and averaged them. With this we are able to visualize the change in people's tendency, to follow restrictions related to movement.
 
+## Areas of negative change
+
 As we have foreshadowed above, people seem to care less about the restrictions as we move forward in time, changes in Grocery and Pharmacy, Retail and Recreation, Transit Stations and Workplaces, show a significant drop, from the baseline, both in the first and second lockdown. 
 
 ![grocery_1st_wave]({{< baseurl >}}images/mobility_1_grocery.png)
@@ -58,6 +60,8 @@ As we have foreshadowed above, people seem to care less about the restrictions a
 
 ![work_1st_wave]({{< baseurl >}}images/mobility_1_work.png)
 ![work_2nd_wave]({{< baseurl >}}images/mobility_2_work.png)
+
+## Areas of psoitive change
 
 Unsurprisingly Residential movement has increased during both lockdowns, since if people want to meet up, their only option is someone's home or some public area. Speaking of, Parks have seen a mild increase during the first lockdown, but has skyrocketed during the second lockdown. The reason? People initially didn't know how contagious COVID-19 was in an outdoors setting, but the public opinion has shifted in this regard. What is also interesting to note is that, Parks have seen a significant increase during the second lockdown, but keep in mind that this was in November.
 
