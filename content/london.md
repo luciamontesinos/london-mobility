@@ -6,7 +6,7 @@ draft: false
 
 
 ### Map of Greater london
-![London]({{< baseurl >}}images/london.png)
+{{<include-html "/data/parties.html">}}
 
 #### Socioeconomical status
 #### Population
