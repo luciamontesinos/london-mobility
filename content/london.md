@@ -15,7 +15,7 @@ Greater London area, which consists of 32 boroughs will be our focus of anylisis
 - Liberal Democrats (Green)
 - Tower Hamlets First (Orange)
 
-{{<include-html "/data/parties.html">}}
+![london_politics]({{< baseurl >}}images/london_politics.png)
 
 #### Socioeconomical status
 {{<include-html "/data/poverty_dark.html">}}
