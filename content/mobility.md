@@ -47,25 +47,25 @@ We have picked the start date of the first lockdown, to be 24/03/2020, when the 
 
 As we have foreshadowed above, people seem to care less about the restrictions as we move forward in time, changes in Grocery and Pharmacy, Retail and Recreation, Transit Stations and Workplaces, show a significant drop, from the baseline, both in the first and second lockdown. 
 
-{{<include-html "/data/mobility_1_grocery.html">}}
-{{<include-html "/data/mobility_2_grocery.html">}}
+![grocery_1st_wave]({{< baseurl >}}images/mobility_1_grocery.png)
+![grocery_2nd_wave]({{< baseurl >}}images/mobility_2_grocery.png)
 
-{{<include-html "/data/mobility_1_retail.html">}}
-{{<include-html "/data/mobility_2_retail.html">}}
+![retail_1st_wave]({{< baseurl >}}images/mobility_1_retail.png)
+![retail_2nd_wave]({{< baseurl >}}images/mobility_2_retail.png)
 
-{{<include-html "/data/mobility_1_transit.html">}}
-{{<include-html "/data/mobility_2_transit.html">}}
+![transit_1st_wave]({{< baseurl >}}images/mobility_1_transit.png)
+![transit_2nd_wave]({{< baseurl >}}images/mobility_2_transit.png)
 
-{{<include-html "/data/mobility_1_work.html">}}
-{{<include-html "/data/mobility_2_work.html">}}
+![work_1st_wave]({{< baseurl >}}images/mobility_1_work.png)
+![work_2nd_wave]({{< baseurl >}}images/mobility_2_work.png)
 
 Unsurprisingly Residential movement has increased during both lockdowns, since if people want to meet up, their only option is someone's home or some public area. Speaking of, Parks have seen a mild increase during the first lockdown, but has skyrocketed during the second lockdown. The reason? People initially didn't know how contagious COVID-19 was in an outdoors setting, but the public opinion has shifted in this regard. What is also interesting to note is that, Parks have seen a significant increase during the second lockdown, but keep in mind that this was in November.
 
-{{<include-html "/data/mobility_1_park.html">}}
-{{<include-html "/data/mobility_2_park.html">}}
+![parks_1st_wave]({{< baseurl >}}images/mobility_1_parks.png)
+![parks_2nd_wave]({{< baseurl >}}images/mobility_2_park.png)
 
-{{<include-html "/data/mobility_1_residential.html">}}
-{{<include-html "/data/mobility_2_residential.html">}}
+![residential_1st_wave]({{< baseurl >}}images/mobility_1_residential.png)
+![residential_2nd_wave]({{< baseurl >}}images/mobility_2_residential.png)
 
 ### How it is now
 
