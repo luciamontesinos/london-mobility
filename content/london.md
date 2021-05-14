@@ -21,9 +21,10 @@ The 32 boroughs, each with their own leading political party, currently the Labo
 As with most capital cities, the richer tend to move to the suburbs of the city, to escape the noise and smell. People working service jobs, tend to do so in the city centre, which usually makes up for the lower income job opportunities.
 {{<include-html "/data/poverty_dark.html">}}
 
-The unemployment seems to be high in boroughs that are infamous for being deprived. Tower Hamlets, having the highest unemployment is one such borough, where immigrant population is relatively high, but this area also includes the headquarters of different banks, this borough seems to have high social inequality.
+The economic distribution of the London metro is rather typical of large European metropolises, where the poorer areas are in the inner ring suburbs, and the wealthier areas are the very center and certain outer ring suburbs. Of course, this map could be much more refined and reveal smaller pockets of wealth disparity, but because our covid data is on the borough level, we find this data most useful.  
+
+Of course the virus does not discriminate between rich and poor, but it is most likely not a coincidence that Newham, [the borough with the most cases](https://luciamontesinos.github.io/london-mobility/covid/#the-second-wave), is also one of the few boroughs with a below average poverty level.
 {{<include-html "/data/unemployment_dark.html">}}
 
+The employment data is slightly correlated to the poverty data, but as far as its impact on covid spread, its hard to say. In theory, it might be beneficial that one doesn't have a job during a pandemic, especially frontline work. 
 
-
-#### Number of stops etc
