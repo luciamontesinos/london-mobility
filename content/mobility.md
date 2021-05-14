@@ -55,6 +55,11 @@ We have picked the start date of the first lockdown, to be 24/03/2020, when the 
 
 As we have foreshadowed above, people seem to care less about the restrictions as we move forward in time, changes in Grocery and Pharmacy, Retail and Recreation, Transit Stations and Workplaces, show a significant drop, from the baseline, both in the first and second lockdown. Unsurprisingly Residential movement has increased during both lockdowns, since if people want to meet up, their only option is someone's home or some public area. Speaking of, Parks have seen a mild increase during the first lockdown, but has skyrocketed during the second lockdown. The reason? People initially didn't know how contagious COVID-19 was in an outdoors setting, but the public opinion has shifted in this regard. What is also interesting to note is that, Parks have seen a significant increase during the second lockdown, but keep in mind that this was in November.
 
+<div class="row">
+  <div {{<include-html "/data/mobility_1_grocery.html">}}</div>
+  <div {{<include-html "/data/mobility_2_grocery.html">}}</div>
+</div>
+
 
 
 ### How it is now
