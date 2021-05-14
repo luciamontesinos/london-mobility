@@ -28,7 +28,13 @@ For example, during the period in which pubs, shops, and eating places were clos
 
 **todo: add a plot of the above explanations ??**
 
-We could extrapolate from this the Londoners followed the social distance measurements. However, as London boroughs present very various socioeconomic circumstances **todo link here Max socioeconomical plots**, it is necessary to study them separately.
+We could extrapolate from this the Londoners followed the social distance measurements. However, as some of the restrictions were lifted and then imposed again, it's interesting to study if the citizens followed the restrictions as strictly compared to the previous waves. 
+
+
+If we take a look into how the daily covid cases, **todo: link to daily covid cases**, although there are more 
+
+
+As London boroughs present very various socioeconomic circumstances **todo link here Max socioeconomical plots**, it is necessary to study them separately.
 
 ### The impact by boroughs
 **todo: add Tamás google mobility plots**
