@@ -33,3 +33,5 @@ As we can see, not all boroughs have the same number of bus stops.
 As we can see, not all boroughs have the same number of tfl stops (includes Tube, DLR, Overground, Tramlink, Emirates Air Line and Crossrail stations)
 
 {{<include-html "/data/London_tfl_stations.html">}}
+
+{{<include-html "/data/mobility_1_grocery.html">}}
