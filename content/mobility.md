@@ -47,29 +47,38 @@ We have picked the start date of the first lockdown, to be 24/03/2020, when the 
 
 ## Areas of negative change
 
-As we have foreshadowed above, people seem to care less about the restrictions as we move forward in time, changes in Grocery and Pharmacy, Retail and Recreation, Transit Stations and Workplaces, show a significant drop, from the baseline, both in the first and second lockdown. 
+As we have foreshadowed above, people seem to care less about the restrictions as we move forward in time, changes in Grocery and Pharmacy, Retail and Recreation, Transit Stations and Workplaces, show a significant drop, from the baseline, both in the first and second lockdown.
 
+Mobility trends for places like grocery markets, food warehouses, farmers markets, specialty food shops, drug stores, and pharmacies.
 ![grocery_1st_wave]({{< baseurl >}}images/mobility_1_grocery.png)
 ![grocery_2nd_wave]({{< baseurl >}}images/mobility_2_grocery.png)
 
+Mobility trends for places like restaurants, cafes, shopping centers, theme parks, museums, libraries, and movie theaters.
 ![retail_1st_wave]({{< baseurl >}}images/mobility_1_retail.png)
 ![retail_2nd_wave]({{< baseurl >}}images/mobility_2_retail.png)
 
+Mobility trends for places like public transport hubs such as subway, bus, and train stations.
 ![transit_1st_wave]({{< baseurl >}}images/mobility_1_transit.png)
 ![transit_2nd_wave]({{< baseurl >}}images/mobility_2_transit.png)
 
+Mobility trends for places of work.
 ![work_1st_wave]({{< baseurl >}}images/mobility_1_work.png)
 ![work_2nd_wave]({{< baseurl >}}images/mobility_2_work.png)
 
 ## Areas of psoitive change
 
-Unsurprisingly Residential movement has increased during both lockdowns, since if people want to meet up, their only option is someone's home or some public area. Speaking of, Parks have seen a mild increase during the first lockdown, but has skyrocketed during the second lockdown. The reason? People initially didn't know how contagious COVID-19 was in an outdoors setting, but the public opinion has shifted in this regard. What is also interesting to note is that, Parks have seen a significant increase during the second lockdown, but keep in mind that this was in November.
+Unsurprisingly Residential movement has increased during both lockdowns, since if people want to meet up, their only option is someone's home or some public area.
 
-![parks_1st_wave]({{< baseurl >}}images/mobility_1_parks.png)
-![parks_2nd_wave]({{< baseurl >}}images/mobility_2_park.png)
-
+Mobility trends for places of residence.
 ![residential_1st_wave]({{< baseurl >}}images/mobility_1_residential.png)
 ![residential_2nd_wave]({{< baseurl >}}images/mobility_2_residential.png)
+
+Speaking of, Parks have seen a mild increase during the first lockdown, but has skyrocketed during the second lockdown. The reason? People initially didn't know how contagious COVID-19 was in an outdoors setting, but the public opinion has shifted in this regard. What is also interesting to note is that, Parks have seen a significant increase during the second lockdown, but keep in mind that this was in November.
+
+Mobility trends for places like local parks, national parks, public beaches, marinas, dog parks, plazas, and public gardens.
+![parks_1st_wave]({{< baseurl >}}images/mobility_1_parks.png)
+![parks_2nd_wave]({{< baseurl >}}images/mobility_2_parks.png)
+
 
 ### How it is now
 
