@@ -8,10 +8,11 @@ draft: false
 You might know already the population of the London boroughs, **todo something about population* but how is the mobility insfrastructure for each of them? 
 
 ### Cycle
-London counts with more than ???? km of cycle paths. This is a map of cyclable paths: 
+London counts with The London Cycle Network Plus (LCN+) a  network of cycle routes of about 900 kilometres. Below is the map of the cyclable paths:
 
 {{<include-html "/data/Cycle_Routes.html">}}
 **todo improve plot of cycle routes**
+
 
 Beside the private owned bikes, London counts with a public cycle scheme with more than 11,500 bikes and 750 docking stations. However the distribution of this docking station is quite uneven.
 
