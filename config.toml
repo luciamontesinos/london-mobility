@@ -7,6 +7,7 @@ theme = "PaperMod"
 author = ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
 description = "Final project for 02806 Social Data Analysis and Visualization Spring 21"
 disableThemeToggle = "true"
+defaultTheme = "dark"
 
 
 [params.homeInfoParams]
