@@ -4,6 +4,10 @@ description: "This is how Covid-19 has affected Greater London"
 draft: false
 ---
 
+
+### Total cases
+London was initially one of the worst affected regions of England, reaching its peak in January of 2021.
+
 ![COVIDcases]({{<baseurl>}}images/totalcases.png)
 ### Covid impact in different boroughs
 

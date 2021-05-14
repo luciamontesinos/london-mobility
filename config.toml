@@ -6,6 +6,8 @@ theme = "PaperMod"
 [Params] 
 author = ["Lucía Montesinos García - s205912", "Max Jacob Specktor - s184362", "Tamás Rudokász - s202522"]
 description = "Final project for 02806 Social Data Analysis and Visualization Spring 21"
+disableThemeToggle: true
+defaultTheme: auto
 
 
 [params.homeInfoParams]
@@ -38,10 +40,4 @@ url = "https://github.com/luciamontesinos/london-mobility"
     url = "/mobility"
     name = "Mobility"
     weight = 4
-
-[[menu.main]]
-    url = "/mobility1"
-    name = "Mobility1"
-    weight = 5
-
 
