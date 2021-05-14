@@ -28,9 +28,8 @@ If we keep in mind the restriction timeline, we can see a clear correspondence b
 
 For example, during the period in which pubs, shops, and eating places were closed, there is up to an 89% decrease with respect to the baseline. Another example is with the visits to the parks, which increases whenever the "stay at home" restriction is lifted.
 
-**todo: add a plot of the above explanations ??**
 
-We could extrapolate from this the Londoners followed the social distance measurements. However, as some of the restrictions were lifted and then imposed again, it's interesting to study if the citizens followed the restrictions as strictly compared to the previous waves. 
+We could extrapolate from this that the Londoners followed the social distance measurements. However, as some of the restrictions were lifted and then imposed again, it's interesting to study if the citizens followed the restrictions as strictly compared to the previous waves. 
 
 
 If we take a look into how the daily covid cases, although there are more 
